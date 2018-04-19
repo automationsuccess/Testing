@@ -19,6 +19,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+echo 'test123';
 ?>
 
 <div class="woocommerce-order">
